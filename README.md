@@ -1,1 +1,1 @@
-# socialengine-coding-standards
+# SocialEngine Coding Standards

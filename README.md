@@ -1,0 +1,1 @@
+# socialengine-coding-standards

@@ -8,6 +8,8 @@ sudo: false
 before_script:
   - composer install
 
+script:
+  - php build/scripts/standards
+
 after_success:
-  - build/scripts/standards
   - build/scripts/publish.sh

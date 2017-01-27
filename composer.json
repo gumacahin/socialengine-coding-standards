@@ -1,4 +1,20 @@
 {
-  "name": "raymondbenc/socialengine-coding-standards",
-  "version": "1.0.0"
+    "name": "raymondbenc/socialengine-coding-standards",
+    "license": "MIT",
+    "version": "1.1",
+    "authors": [
+        {
+
+            "name": "RaymondBenc",
+            "email": "ray@socialengine.com"
+        },
+        {
+            "name": "SocialEngine Development Team",
+            "email": "support@socialengine.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "^2.7",
+        "symfony/console": "^3.2"
+    }
 }

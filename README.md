@@ -13,4 +13,4 @@ composer require raymondbenc/socialengine-coding-standards
 
 To check your code...
 ```
-php vendor/bin/phpcs --standards="vendor/raymondbenc/socialengine-coding-standards/SocialEngine" [FILE] 
+php vendor/bin/phpcs --standard="vendor/raymondbenc/socialengine-coding-standards/SocialEngine" [FILE] 

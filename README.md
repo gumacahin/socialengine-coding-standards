@@ -8,9 +8,9 @@ You can explore our development standards [here](STANDARDS.md).
 ## Usage
 
 ```
-composer require raymondbenc/socialengine-coding-standards
+composer require redmatterio/socialengine-coding-standards
 ```
 
 To check your code...
 ```
-php vendor/bin/phpcs --standard="vendor/raymondbenc/socialengine-coding-standards/SocialEngine" [FILE] 
+php vendor/bin/phpcs --standard="vendor/redmatterio/socialengine-coding-standards/SocialEngine" [FILE] 

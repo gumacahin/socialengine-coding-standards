@@ -8,7 +8,7 @@ You can explore our development standards [here](STANDARDS.md).
 ## Usage
 
 ```
-composer require redmatterio/socialengine-coding-standards
+composer require jitflowlab/socialengine-coding-standards
 ```
 
 To check your code...
